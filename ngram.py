@@ -31,4 +31,4 @@ for i in freq_dict:
 
 #unigram base case
 
-#always end in .
+#always end in '.'
